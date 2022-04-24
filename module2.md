@@ -88,3 +88,54 @@ Par défaut : votre adresse personnelle est celle de votre micro-entreprise.
 **Domicilier... ou pas ?**
 Domicilier son entreprise peut être intéressant pour réduire le coût de la CFE et éviter la diffusion de votre adresse personnelle.
 La domiciliation peut alors s'effectuer auprès d'une société spécialisée comme LegalPlace.
+
+## Créer son statut
+
+**Soi-même (URSSAF)**
+Inscription sur le site autoentrepreneur.urssaf.fr. **Seul site officiel !**
+
+**Délégué/accompagné**
+- Legalstart
+- Shine
+- Abby
+- Hello my business
+- PORTAIL Auto-Entrepreneur
+
+## Extrait Kbis et numéro de SIREN
+
+Réception d'un document par courrier comprenant le numéro de siret.
+
+## Faire sa demande d'ACRE
+
+Réduction de cotisations pendant les 4 premiers trimestres.
+45 jours pour faire sa demande une fois l'enregistrement fait auprès de l'URSSAF.
+
+## Choisir son compte bancaire
+
+Le compte bancaire dédié est **obligatoire** au-delà de 10 000€ de CA encaissé/an sur 2 années consécutives.
+**Un compte dédié est différent d'un compte professionnel !**
+
+## Choisir un outil de comptabilité
+
+Préférez des logiciels reconnues qui sortent des documents officiels notamment lors de contrôles de votre fiscalité (Feebe, Abby...). 
+Evitez donc les méthodes "à la main" avec Excel, un cahier physique... !
+
+## Choisir une complémentaire santé
+
+Rembourser en complément de la sécurité sociale. 
+Si vous êtes salarié, vous en avez déjà une !
+
+## Contrat de prévoyance
+
+Assurance en cas d'accidents majeurs (incapacité de travail, invalidité et le décès).
+
+## Responsabilité civile pro
+
+Vous couvre pour les dommages corporels, matériels ou immatériels que vous pourriez causer à une autre personne ou entreprise.
+
+## Attention aux arnaques !
+
+**Vous n'avez rien à payer sauf :**
+- Cotisations (URSSAF)
+- Impôts
+- CFE
