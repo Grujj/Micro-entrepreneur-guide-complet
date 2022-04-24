@@ -1,4 +1,4 @@
-# Fonctionnement détaillé
+# Module 3 : Fonctionnement détaillé
 
 1. Le vocabulaire
 2. Les natures d'activités
