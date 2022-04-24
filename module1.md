@@ -1,22 +1,22 @@
-## Module 1 : Découverte de la micro-entreprise
+# Module 1 : Découverte de la micro-entreprise
 
-### La micro-entreprise, c'est quoi ?
+## La micro-entreprise, c'est quoi ?
 
 Une micro-entreprise peut être désigner par plusieurs termes. Micro-entreprise, micro-entrepreneur et auto-entrepreneur désigne tous aujourd'hui le status de micro-entreprise.
 
-### Pourquoi devenir micro-entrepreneur ?
+## Pourquoi devenir micro-entrepreneur ?
 - Lancer une activité rapidement sans être freiné/bloqué par des démarches complexes
 - Etoffer son expérience profesionnelle et/ou augementer ses revenus
 - Effectuer une activité principale ou complémentaire (étudiant, salarié, retraité, ...)
 
-### Pourquoi ce type d'entreprise ?
+## Pourquoi ce type d'entreprise ?
   - Démarches rapides (environ 2-3 semaines)
   - Gratuit (ou coût très faible)
   - Gestion comptable vraiment simplifiée
   - Régime fiscal avantageux (cf. cotisations & impôts)
   - "Limites" très raisonnables (plafond du chiffre d'affaires, type d'activité...)
 
-### Combien ça coûte ?
+## Combien ça coûte ?
 
 **Obligatoire :**
 - Création c'est gratuit (ou payant si on délègue)
@@ -32,7 +32,7 @@ Une micro-entreprise peut être désigner par plusieurs termes. Micro-entreprise
 - Complémentaire santé
 - Contrat de prévoyance
 
-### Qui peut devenir micro-entrepreneur ?
+## Qui peut devenir micro-entrepreneur ?
 
 **TOUT** le monde sous les conditions :
 - Avoir une adresse posatale en France
@@ -45,7 +45,7 @@ Une micro-entreprise peut être désigner par plusieurs termes. Micro-entreprise
 
 **Cas particulier** : Les salariés doivent recevoir un accord de l'employeur en cas de **clause de non-concurrence** *(ou spécificités incluses dans le contrat de travail)*
 
-### Entreprise vs société
+## Entreprise vs société
 
 **Entreprise individuelle :**
 - L'entrepreneur est assimilé à son entreprise (vous êtes responsable des dettes)
@@ -57,7 +57,7 @@ Une micro-entreprise peut être désigner par plusieurs termes. Micro-entreprise
 - Patrimoine propre à la société (vous êtes responsable des dettes)
 - "Il faut sortir l'argent de la boite" (via le versement d'un salaire)
 
-### Micro-entrepreneur et entreprise ?
+## Micro-entrepreneur et entreprise ?
 
 Une micro-entreprise est une entreprise qui bénéficie de deux choses :
 
