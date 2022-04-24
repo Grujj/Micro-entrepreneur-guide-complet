@@ -1,4 +1,4 @@
-# Devenir micro-entrepreneur
+# Module 2 : Devenir micro-entrepreneur
 
 ## La liste des étapes
 - Définir ses "paramètres"
